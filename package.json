@@ -2,6 +2,9 @@
   "name": "my-chat-application",
   "version": "0.0.1",
   "description": "realtime socket-io chat application",
+  "scripts": {
+    "start": "node index.js"
+  }
   "dependencies": {
     "express": "^4.15.2",
     "socket.io": "^2.0.3"
