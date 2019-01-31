@@ -1,5 +1,8 @@
 # Chat-Application
-this is demo chat application created with socket io. 
+This is demo chat application created with socket io. 
+
+## Live App
+  https://chat-application-sgzala.herokuapp.com/
 
 ## Getting Started
 
