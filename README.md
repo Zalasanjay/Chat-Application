@@ -13,4 +13,4 @@ node index.js
 ```
 
 
-Go to localhost:2200 to inspect the example in your Browser.
+Go to http://localhost:2200 to inspect the example in your web browser.
